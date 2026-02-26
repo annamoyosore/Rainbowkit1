@@ -1,5 +1,5 @@
 // Replace with your own Alchemy project ID
-export const ALCHEMY_API_KEY = "YOUR_ALCHEMY_API_KEY";
+export const ALCHEMY_API_KEY = "qX9bFT7RQMgaFAYPeBo-WNLtOQS4UMhc";
 
 // Supported chains
 export const CHAINS = [
